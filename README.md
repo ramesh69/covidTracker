@@ -2,7 +2,7 @@
 
 ### [Live Site](https://corona-19-data.netlify.app/)
 
-![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
+![COVID-19 Tracker](https://ibb.co/TTRctQ3)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
