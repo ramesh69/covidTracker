@@ -2,7 +2,7 @@
 
 ### [Live Site](https://corona-19-data.netlify.app/)
 
-![COVID-19 Tracker](https://i.ibb.co/5kKXJcw/Capture.png)
+![COVID-19 Tracker](http://www.simpleimageresizer.com/_uploads/photos/4eea4b52/Capture_0.png)
 
 ## Introduction
 
